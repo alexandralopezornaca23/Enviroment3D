@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Enviroment3D.cpp.obj": [
+			"Enviroment3D.cpp.obj"
+		]
+	}
+}
