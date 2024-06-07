@@ -1,6 +1,5 @@
 Enviroment3D/Binaries/Win64/D3D12/D3D12Core.dll	2024-02-22T19:24:12.121Z
-Enviroment3D/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2024-02-22T19:24:13.312Z
-Enviroment3D/Binaries/Win64/Enviroment3D.exe	2024-05-19T01:22:51.549Z
+Enviroment3D/Binaries/Win64/Enviroment3D-Win64-Shipping.exe	2024-06-06T14:08:40.248Z
 Enviroment3D/Binaries/Win64/OpenImageDenoise.dll	2024-02-22T20:49:03.083Z
 Enviroment3D/Binaries/Win64/tbb.dll	2024-02-22T19:23:27.213Z
 Enviroment3D/Binaries/Win64/tbb12.dll	2024-02-22T20:48:55.260Z
@@ -12,7 +11,6 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2024-02-22T19:23:46.492Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-02-22T19:24:12.105Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-02-22T19:24:12.106Z
-Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2024-02-22T19:24:13.329Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-02-22T19:24:13.332Z
 Engine/Content/Slate/Cursor/invisible.cur	2024-02-22T19:31:02.378Z
-Enviroment3D.exe	2024-05-19T01:27:27.247Z
+Enviroment3D.exe	2024-06-07T08:23:28.952Z

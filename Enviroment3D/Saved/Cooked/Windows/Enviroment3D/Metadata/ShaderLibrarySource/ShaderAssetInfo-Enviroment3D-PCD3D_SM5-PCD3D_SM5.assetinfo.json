@@ -8,12 +8,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "99584201741C89E9342C9561683A3BCD1AB6BCD9",
-			"Assets": [
-				"/Game/BattleWizardPolyart/Materials/StageMat"
-			]
-		},
-		{
 			"ShaderMapHash": "E887E2014001CC1284960B18E957C69EA9AE23FB",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
@@ -74,12 +68,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "25DE3A193A8EDD3878CF653A897ECF60FE24AF41",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/Needles"
-			]
-		},
-		{
 			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
@@ -89,6 +77,18 @@
 			"ShaderMapHash": "A191811C5DB5991557970E6B9CBEF420916FE415",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "4C82361DEE3F4DF9ACBD8B77819B15D498C725EE",
+			"Assets": [
+				"/Game/Shaders/M_Dissolve2"
+			]
+		},
+		{
+			"ShaderMapHash": "3170291EF6F61272CACA09EC87EE4E755A99B174",
+			"Assets": [
+				"/Game/Shaders/M_CelShading"
 			]
 		},
 		{
@@ -106,14 +106,7 @@
 		{
 			"ShaderMapHash": "8D24DF24D7A48EF9B9313973A777BB18C2402851",
 			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/LevelPrototyping/Characters/Mannequins/Materials/M_Mannequin"
-			]
-		},
-		{
-			"ShaderMapHash": "D2FC332DA2F00814449A41F3611C9B298C2380ED",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/Mat_Key"
 			]
 		},
 		{
@@ -123,9 +116,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D6FC133101844E6E9D12541EB8853B3B19B847F2",
+			"ShaderMapHash": "E81D3C3815EC12B327C5A6D8D8C5955804C6FA47",
 			"Assets": [
-				"/Game/Polygon_FantasyVillage/Materials/M_MainMaterial"
+				"/Game/Shaders/M_DissolveGlow"
 			]
 		},
 		{
@@ -151,12 +144,6 @@
 			"ShaderMapHash": "320CDD401E151F5CC714EE553957578BCA2EBF02",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7A5190433F0FB1CBF5F1FE2D2F7BE893803E6E27",
-			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
 			]
 		},
 		{
@@ -197,15 +184,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0810C84B21C82BD7D3E2BABA1F47DC6302C7A121",
-			"Assets": [
-				"/Game/Materials/M_Yellow_01"
-			]
-		},
-		{
 			"ShaderMapHash": "F79FAA4E9F45A839746157367F87D4366028F5E8",
 			"Assets": [
 				"/Game/Materials/M_Grey_01"
+			]
+		},
+		{
+			"ShaderMapHash": "00A2015ED74AD011FA7AAC7D23A397BF6A543BEC",
+			"Assets": [
+				"/Game/Polygon_FantasyVillage/Materials/M_MainMaterial"
 			]
 		},
 		{
@@ -218,6 +205,27 @@
 			"ShaderMapHash": "A904E767C40BEFEFD2AF9DA2A5F5CA09DFF28877",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "596722681231C7A74762A1B2CF501C53E42569C3",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FF5706691A3FB6AAFDE538A6118A7E8106B9FDF2",
+			"Assets": [
+				"/Game/NiagaraSystems/NS_Teleport_001",
+				"/Game/NiagaraSystems/NS_Teleport_002",
+				"/Game/NiagaraSystems/NS_Teleport_004",
+				"/Game/NiagaraSystems/NS_Teleport_005"
+			]
+		},
+		{
+			"ShaderMapHash": "E069866E815AE6DD4610989DDDC360BB3747FB12",
+			"Assets": [
+				"/Game/Shaders/M_FierBall"
 			]
 		},
 		{
@@ -236,12 +244,6 @@
 			"ShaderMapHash": "979A4475E0B6772FE78F89F40310043023AB5238",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
-			]
-		},
-		{
-			"ShaderMapHash": "239FCE79F06C0BE9976135AC0D3B2783BE974F36",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -266,6 +268,12 @@
 			"ShaderMapHash": "D674888DB57FDEEF69631175192661BDE7DBB083",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "7571308E979E51738A4290AA33AD1F45142E34D3",
+			"Assets": [
+				"/Game/Materials/M_reflectivo"
 			]
 		},
 		{
@@ -338,9 +346,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FC6367A92F88E4C98625FB2AE5281105FB070CEA",
+			"ShaderMapHash": "4A7035A409433B712AFDAB6A1DCF9DD0336865E6",
 			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+				"/Game/Materials/M_Magenta"
 			]
 		},
 		{
@@ -352,16 +360,10 @@
 		{
 			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/01_-_Default",
-				"/Game/LevelPrototyping/Materials/02_-_Default",
 				"/Game/LevelPrototyping/Materials/07_-_Default",
-				"/Game/LevelPrototyping/Materials/09_-_Default",
-				"/Game/LevelPrototyping/Materials/13_-_Default",
-				"/Game/LevelPrototyping/Materials/15_-_Default",
 				"/Game/LevelPrototyping/Materials/19_-_Default",
 				"/Game/LevelPrototyping/Materials/20_-_Default",
 				"/Game/LevelPrototyping/Materials/21_-_Default",
-				"/Game/LevelPrototyping/Meshes/13_-_Default",
 				"/Game/Materials/M_WoodBox"
 			]
 		},
@@ -408,6 +410,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3CAE65CEBEAD3547E6C7ACB1F9976B0A3F238A39",
+			"Assets": [
+				"/Game/Shaders/M_MultiSurface"
+			]
+		},
+		{
 			"ShaderMapHash": "CDD6F6D0AAACD600E94525FBEEA46E214381CE46",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
@@ -445,16 +453,22 @@
 				"/Game/Assets/02_-_Default",
 				"/Game/Assets/03_-_Default",
 				"/Game/Assets/07_-_Default",
+				"/Game/Assets/Material_001",
 				"/Game/LevelPrototyping/Materials/18_-_Default",
-				"/Game/LevelPrototyping/Materials/23_-_Default",
-				"/Game/LevelPrototyping/Materials/Branch0",
-				"/Game/LevelPrototyping/Materials/Branch1"
+				"/Game/LevelPrototyping/Materials/23_-_Default"
 			]
 		},
 		{
 			"ShaderMapHash": "E74C3AE1977BE47D188CD23358E169CBB2239DEB",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "34C938E40B00F37364F8AB00F3B037C7E04D4264",
+			"Assets": [
+				"/Game/Shaders/M_Dissolve",
+				"/Game/Shaders/M_transparent"
 			]
 		},
 		{
@@ -484,7 +498,6 @@
 		{
 			"ShaderMapHash": "41C209FBAB4912F5BB45AE7368EF13348DF6BB50",
 			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/LevelPrototyping/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		}

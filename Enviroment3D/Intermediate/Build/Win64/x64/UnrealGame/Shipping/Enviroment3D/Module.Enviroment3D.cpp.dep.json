@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\proyectos unreal\\enviroment3d\\enviroment3d\\enviroment3d\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\enviroment3d\\module.enviroment3d.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\proyectos unreal\\enviroment3d\\enviroment3d\\enviroment3d\\intermediate\\build\\win64\\x64\\enviroment3d\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "f:\\proyectos unreal\\enviroment3d\\enviroment3d\\enviroment3d\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\enviroment3d\\definitions.enviroment3d.h",
+            "f:\\proyectos unreal\\enviroment3d\\enviroment3d\\enviroment3d\\intermediate\\source\\enviroment3d.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

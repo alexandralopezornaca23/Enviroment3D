@@ -14,9 +14,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E6959D08538D83DCAF1B32274FBDDEAA13B1051A",
+			"ShaderMapHash": "1554E908B13F5DC71DDF0BD70DD922410154D348",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/Mat_Key"
+				"/Game/Materials/M_Magenta"
 			]
 		},
 		{
@@ -40,16 +40,10 @@
 		{
 			"ShaderMapHash": "1323A416A7FD67AC95CDDC6E36D4BD08F8CD9238",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/01_-_Default",
-				"/Game/LevelPrototyping/Materials/02_-_Default",
 				"/Game/LevelPrototyping/Materials/07_-_Default",
-				"/Game/LevelPrototyping/Materials/09_-_Default",
-				"/Game/LevelPrototyping/Materials/13_-_Default",
-				"/Game/LevelPrototyping/Materials/15_-_Default",
 				"/Game/LevelPrototyping/Materials/19_-_Default",
 				"/Game/LevelPrototyping/Materials/20_-_Default",
 				"/Game/LevelPrototyping/Materials/21_-_Default",
-				"/Game/LevelPrototyping/Meshes/13_-_Default",
 				"/Game/Materials/M_WoodBox"
 			]
 		},
@@ -72,9 +66,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BAEC191FC0D90CE831D0497D7FDA0F64DA3008BA",
+			"Assets": [
+				"/Game/Polygon_FantasyVillage/Materials/M_MainMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "7945DF203E5766C373146CD826733A0C50C572A3",
 			"Assets": [
 				"/Game/Materials/M_Red_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5C2D81233236A247D1D7A5B41ED722B9B449CF2C",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -90,12 +96,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5378C42C61DE48233251FE64C46BFD58CD28B596",
-			"Assets": [
-				"/Game/Materials/M_Yellow_01"
-			]
-		},
-		{
 			"ShaderMapHash": "FCE85F33CB5D23A0044C7F44EDA03BBC8E1CA022",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
@@ -103,23 +103,26 @@
 				"/Game/Assets/02_-_Default",
 				"/Game/Assets/03_-_Default",
 				"/Game/Assets/07_-_Default",
+				"/Game/Assets/Material_001",
 				"/Game/LevelPrototyping/Materials/18_-_Default",
-				"/Game/LevelPrototyping/Materials/23_-_Default",
-				"/Game/LevelPrototyping/Materials/Branch0",
-				"/Game/LevelPrototyping/Materials/Branch1"
+				"/Game/LevelPrototyping/Materials/23_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "09B80D355F887A24A08176B8297109C85E573C38",
+			"Assets": [
+				"/Game/Shaders/M_DissolveGlow"
 			]
 		},
 		{
 			"ShaderMapHash": "59BB4C3D7B10FEC123D53D902879A89DC57A7B3D",
 			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/LevelPrototyping/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		},
 		{
 			"ShaderMapHash": "C86F7C44B386018412F7827E213D76EB64473453",
 			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/LevelPrototyping/Characters/Mannequins/Materials/M_Mannequin"
 			]
 		},
@@ -166,6 +169,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9E094F58D8581D8E61EA443EF9CA054FA66C7E73",
+			"Assets": [
+				"/Game/Materials/M_reflectivo"
+			]
+		},
+		{
 			"ShaderMapHash": "DB626958631E950FB38D981C39A87E0D50CDBB22",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
@@ -181,6 +190,21 @@
 			"ShaderMapHash": "AD881E5B44933FEC7D7B4E61891524C434B059C5",
 			"Assets": [
 				"/Game/Materials/M_Grey_02"
+			]
+		},
+		{
+			"ShaderMapHash": "B2E7205B30C583DE8D6D50C06B81B9C94ABD631D",
+			"Assets": [
+				"/Game/NiagaraSystems/NS_Teleport_001",
+				"/Game/NiagaraSystems/NS_Teleport_002",
+				"/Game/NiagaraSystems/NS_Teleport_004",
+				"/Game/NiagaraSystems/NS_Teleport_005"
+			]
+		},
+		{
+			"ShaderMapHash": "6A7D245EAAEF5924A86C89B087189371431002E0",
+			"Assets": [
+				"/Game/Shaders/M_CelShading"
 			]
 		},
 		{
@@ -223,24 +247,6 @@
 			"ShaderMapHash": "41E6DC6E9BF3FFDBDD9879CEDB87F8763CAE54BF",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
-			"ShaderMapHash": "F2171879C7CB478DB02F0EE6AD327D029A6947F0",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "09B88579BDC61F22C10513F6C5EA87D2EAAA3E40",
-			"Assets": [
-				"/Game/BattleWizardPolyart/Materials/StageMat"
-			]
-		},
-		{
-			"ShaderMapHash": "4FEFCA7E89313FFB568F3DAD265220DE93FF34A3",
-			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
 			]
 		},
 		{
@@ -292,6 +298,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F897F590C8A50434728DF80CD8503E39DFF92A50",
+			"Assets": [
+				"/Game/Shaders/M_MultiSurface"
+			]
+		},
+		{
 			"ShaderMapHash": "6F72AA956D048C9E851CD02D33459B4B3372F6C8",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
@@ -304,9 +316,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C9E50498EE3C62DC87AA838AE98A08AF2F1170CE",
+			"Assets": [
+				"/Game/Shaders/M_Dissolve2"
+			]
+		},
+		{
 			"ShaderMapHash": "C98E3399059599ED2E8DF5322B9A9E76A852A4B3",
 			"Assets": [
 				"/Game/BattleWizardPolyart/Materials/StandardPolyartMat"
+			]
+		},
+		{
+			"ShaderMapHash": "3F3C129CEA940867E701A783A58A97BE995C6299",
+			"Assets": [
+				"/Game/Shaders/M_Dissolve",
+				"/Game/Shaders/M_transparent"
 			]
 		},
 		{
@@ -352,12 +377,6 @@
 			"ShaderMapHash": "C73753ACFA25521625CBF3750FA1C994D33FAB2E",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D72D87B4FA57F4B0B852CE21ACAB2FE9BB72E6E5",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/Needles"
 			]
 		},
 		{
@@ -409,18 +428,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2539B4D0EB37C19AFEB2B422165E15EF6D648205",
-			"Assets": [
-				"/Game/LevelPrototyping/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
-			]
-		},
-		{
-			"ShaderMapHash": "6679B5D0F8E898677FBB547AC44D5CD8E122606E",
-			"Assets": [
-				"/Game/Polygon_FantasyVillage/Materials/M_MainMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "C3FD79D70C7D43180B3DA1936C81EE2AF3486C2D",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -456,6 +463,12 @@
 			"ShaderMapHash": "122F0CE8B33F28CEE3FACDDA5E57E4F3E1A5CFF8",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "77720EE8EC4CB23102825EA6F04D37FC9DF1D5FE",
+			"Assets": [
+				"/Game/Shaders/M_FierBall"
 			]
 		},
 		{
