@@ -190,7 +190,7 @@ Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
 Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
 Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
 Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Maps/Nivel_2.Nivel_2
+Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Maps/Nivel_1.Nivel_1
 Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/UI_Assets/MainMenu.MainMenu
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/LevelPrototyping/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
@@ -465,6 +465,7 @@ Engine:DevOptions.Shaders:bLogJobCompletionTimes:0=False
 Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 Engine:DevOptions.Shaders:BuildWorkerTimeToLive:0=1200
+Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 Engine:DevOptions.Shaders:bForceUseSCWMemoryPressureLimits:0=False
 Engine:LogFiles:PurgeLogsDays:0=5
 Engine:LogFiles:MaxLogFilesOnDisk:0=10
@@ -746,7 +747,7 @@ Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bReportS
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ConnectionType:0=USBOnly
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bUseManualIPAddress:0=False
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ManualIPAddress:0=
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="D/uem_videojuegos/Segundo curso/Entornos de desarrollo 3D/Actividades")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="D/uem_videojuegos/Segundo curso/Entornos de desarrollo 3D/Actividades/4. Shaders, iluminación y VFX/Alexandra_Actividad4_LopezOrnaca")
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))

@@ -56,9 +56,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BB5D5C1473FC69AA9BF10C80E92E7ECB0EF151F9",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Sun_Stars"
+			]
+		},
+		{
 			"ShaderMapHash": "9D1EC815FCFE026ABCC343AD71D6F5DB7E15C7E3",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "59A2101869C78DFB14EB4BB1BCBD92F040317C70",
+			"Assets": [
+				"/Game/NiagaraSystems/NS_Teleport_001",
+				"/Game/NiagaraSystems/NS_Teleport_002",
+				"/Game/NiagaraSystems/NS_Teleport_004",
+				"/Game/NiagaraSystems/NS_Teleport_005"
 			]
 		},
 		{
@@ -86,12 +101,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3170291EF6F61272CACA09EC87EE4E755A99B174",
-			"Assets": [
-				"/Game/Shaders/M_CelShading"
-			]
-		},
-		{
 			"ShaderMapHash": "E0B72E1E220B4807DCDF1B469A0FB2F77ED1FAAF",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
@@ -107,6 +116,12 @@
 			"ShaderMapHash": "8D24DF24D7A48EF9B9313973A777BB18C2402851",
 			"Assets": [
 				"/Game/LevelPrototyping/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "AA267D2B0FCC45E1CD1044604938FF38999D92DD",
+			"Assets": [
+				"/Game/Materials/M_Emissive"
 			]
 		},
 		{
@@ -154,6 +169,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "84F53946782FDF1CE480A8FE4F9BDB0B970B4FC5",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
 			"ShaderMapHash": "EE9455464CD9CAB651F561DC52A93E5049BFE1F4",
 			"Assets": [
 				"/Game/Materials/M_Brown_01"
@@ -196,6 +217,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A1EA0561D7AF1FBD04793D7D1C0609F05A308C24",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection_Sky"
+			]
+		},
+		{
 			"ShaderMapHash": "6847D76713051F0CCE4837390AC8AAB0AC4BA651",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/03_-_Default"
@@ -214,12 +241,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FF5706691A3FB6AAFDE538A6118A7E8106B9FDF2",
+			"ShaderMapHash": "ECD6B26A69BEAE89176BE733B1B9E7959F355659",
 			"Assets": [
-				"/Game/NiagaraSystems/NS_Teleport_001",
-				"/Game/NiagaraSystems/NS_Teleport_002",
-				"/Game/NiagaraSystems/NS_Teleport_004",
-				"/Game/NiagaraSystems/NS_Teleport_005"
+				"/Game/NiagaraSystems/NS_CampFier"
 			]
 		},
 		{
@@ -265,6 +289,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B06D61861C2759CBEE080A5046F44716ED29A4CA",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "41A3D887FFFC8C2DA2968B243BBAAF9A23572436",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Sun_Stars_Moon"
+			]
+		},
+		{
 			"ShaderMapHash": "D674888DB57FDEEF69631175192661BDE7DBB083",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
@@ -295,6 +331,12 @@
 				"/Game/LevelPrototyping/Materials/17_-_Default",
 				"/Game/LevelPrototyping/Materials/22_-_Default",
 				"/Game/LevelPrototyping/Materials/Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "E4B32A93A73FBA475C837295992C2F7D9F8F4594",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
 			]
 		},
 		{
@@ -380,9 +422,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3CE455AD3D87AF7D36D72E89E40D1D234DFF3D43",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection_Floor",
+				"/HDRIBackdrop/Materials/MI_HDRI_Floor"
+			]
+		},
+		{
 			"ShaderMapHash": "B3602CB5BE34B235EC8ACE178C59D95B6347228F",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "307B87C1075ABC4DF69B867BBA7B9AE896DEDD7F",
+			"Assets": [
+				"/HDRIBackdrop/Materials/MI_HDRI_Sky"
 			]
 		},
 		{
@@ -440,6 +495,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1E10D2DDD503F5D9A835F5CE9F6E5486063E024B",
+			"Assets": [
+				"/Game/GoodSky/Resource/ArrowTool/M_GoodSky_SkyRing_"
+			]
+		},
+		{
 			"ShaderMapHash": "FF1459DF79C16FFF982BBFEFCA2F91074D0BB4FC",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
@@ -465,6 +526,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "82224FE14D9846B2B0F642619A8E3B753F70112D",
+			"Assets": [
+				"/Game/GoodSky/Resource/ArrowTool/M_GoodSky_Sun_Emissive"
+			]
+		},
+		{
 			"ShaderMapHash": "34C938E40B00F37364F8AB00F3B037C7E04D4264",
 			"Assets": [
 				"/Game/Shaders/M_Dissolve",
@@ -484,9 +551,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D3E44AF2205AAADF82810E2DEDC2AE6FDAEA6CFB",
+			"Assets": [
+				"/Game/GoodSky/Resource/Materials/M_GoodSky_Moon"
+			]
+		},
+		{
 			"ShaderMapHash": "FF1145F6A7D2C96D666CB7F3A5DFD7F11B0D3512",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FB9CFDF64C0D762020BECDEF15FC3643D13035E8",
+			"Assets": [
+				"/Game/NiagaraSystems/NS_CampFier"
 			]
 		},
 		{
